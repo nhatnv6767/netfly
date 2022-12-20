@@ -2,7 +2,7 @@ const Page = () => {
     return (
         <>
             <h1> About us Page</h1>
-            <input type="text"/>
+            <span>nothing today</span>
         </>
     )
 }
